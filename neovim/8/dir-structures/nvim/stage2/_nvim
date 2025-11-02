@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+scriptDir="$(realpath --canonicalize-missing "${BASH_SOURCE[0]}/..")"
+export XDG_CONFIG_HOME="$scriptDir/config"
+export XDG_CACHE_HOME="$scriptDir/cache"
+export XDG_DATA_HOME="$scriptDir/local"
+export XDG_STATE_HOME="$scriptDir/state"
+nvim

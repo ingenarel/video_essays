@@ -145,3 +145,27 @@ Now in the root lua dir, we also have a plugins dir, which in turn just for now,
 just a few other file(s)
 
 So after I've explained a bit about the dir structure, let's do some configuring
+
+In the end of your init.lua file, we're going to require the configs module, then in a different split we're going to
+open lua/configs/init.lua
+
+Now we're going to move our vim option changes from our init.lua file to lua/configs/init.lua, exit Neovim and open it
+again, boom, no errors, our config still works, and we've reached our first step towards modularization.
+
+We're now going to move our basic Neovim key binds to lua/configs/keybinds/init.lua, and load the keybinds module in
+lua/configs/init.lua 
+
+Next, we move the whole plugins setup in lua/plugins/init.lua for now, and require the plugins module in the root init.lua
+
+Now my friend, you have a properly modularized config, and have a really good understanding of modularization
+
+Videos like this and the FOSS work I do takes a lot of effort, time, and commitment, I hope this was worthwhile to you,
+If you think that it's worthwhile and okay for you to help me in overcoming my current financial situation which I have
+talked about in this video, you can help me by signing up for my Patreon, which is linked in my YouTube bio, You don't
+really have to do this by the way, I basically had to force myself in asking for money because I do the stuff I do for
+the sake of doing it, and I'm still too damn proud to ask for donations. None of my content and/or the work that I do
+for the people will ever be locked behind a paywall while I'm still fucking breathing. If you wanna hang around with me
+and the community and basically keep up to date with my stuff, you should definitely join our discord server, which is
+also linked in my YouTube bio.
+
+Thanks for staying this long, I wish you a good life.

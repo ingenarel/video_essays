@@ -13,3 +13,14 @@
 {"rule":"GONNA","sentence":"^\\QNow let's do a bit more complex directory structure, inside the Lua dir, we're gonna have the x, y and z dir, with an init.lua file, and directories called a, b, c, and inside of THOSE directories, we have the p, q, r file, with an init.lua\\E$"}
 {"rule":"GONNA","sentence":"^\\QNow let's do a bit more complex directory structure, inside the Lua dir, we're gonna have the x, y and z dir, with an init.lua file, and directories called a, b, c, and inside THOSE directories, we have the p, q, r file, with an init.lua\\E$"}
 {"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QThere should be a separate configs directory, which hosts your own config unrelated to plugins and/or extra stuff, which could work in a clean Neovim setup.\\E$"}
+{"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QIn the end of your init.lua file, we're going to require the configs module\\E$"}
+{"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QIn the end of your init.lua file, we're going to require the configs module, then in a different split we're going to open configs/init.lua\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QWe're now going to move our key binds to configs/keybinds/init.lua, and load the key binds module in configs/init.lua\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QWe're now going to move our key binds to configs/keybinds/init.lua, and load the keybinds module in configs/init.lua\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QWe're now going to move our basic Neovim key binds to configs/keybinds/init.lua, and load the keybinds module in configs/init.lua\\E$"}
+{"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QNext, we move the whole plugins setup in plugins/init.lua for now, and require the plugins module in the root init.lua\\E$"}
+{"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QIn the end of your init.lua file, we're going to require the configs module, then in a different split we're going to open lua/configs/init.lua\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QWe're now going to move our basic Neovim key binds to lua/configs/keybinds/init.lua, and load the keybinds module in lua/configs/init.lua\\E$"}
+{"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QNext, we move the whole plugins setup in lua/plugins/init.lua for now, and require the plugins module in the root init.lua\\E$"}
+{"rule":"EXTREME_ADJECTIVES","sentence":"^\\QNow my friend, you have a properly modularized config, and have a really good understanding of modularization\\E$"}
+{"rule":"WANNA","sentence":"^\\QIf you wanna hang around with me and the community and basically keep up to date with my stuff, you should definitely join our discord server, which is also linked in my YouTube bio.\\E$"}
