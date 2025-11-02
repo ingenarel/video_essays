@@ -1,0 +1,15 @@
+{"rule":"GONNA","sentence":"^\\QNow I'm not gonna tell you how you should structure your Neovim config, that's totally up to you.\\E$"}
+{"rule":"GONNA","sentence":"^\\QBut what I'm gonna do is show you how you can modularize your Neovim config, and maybe you could even apply the core ideas to even your other projects.\\E$"}
+{"rule":"GONNA","sentence":"^\\QAt first, we're probably gonna have a few vim options set up, then the logic to bootstrap lazy, the plugins, and a bit of their configs, then some key binds\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QMy philosophy of modularizing your Neovim config follows this idea: The init file should only contain global functions that were created by you, and only have \\E(?:Dummy|Ina|Jimmy-|Dummy-|Maniquí-|Maniquíes-|Dummy\\+|Dummy's\\+)[0-9]+\\Q functions calling your other modules\\E$"}
+{"rule":"LC_AFTER_PERIOD","sentence":"^\\QNow what exactly is package.loaded you may ask?\\E$"}
+{"rule":"LC_AFTER_PERIOD","sentence":"^\\QIf we check the docs for package.preload it says,\\E$"}
+{"rule":"LC_AFTER_PERIOD","sentence":"^\\QIf we check out the docs for package.path, it says that it's\\E$"}
+{"rule":"LC_AFTER_PERIOD","sentence":"^\\QSo back to the \"require\"'s docs, it does a package.loaded check, if it fails, it tries to search for a Lua loader.\\E$"}
+{"rule":"LC_AFTER_PERIOD","sentence":"^\\Qso to sum it up again, package.loaded check, if not, package.path check, if not, package.cpath check\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\Qso to sum it up again, package.loaded check, if not, package.path check, if not, package.cpath check\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QThis is your file structure, you have an init.lua, and a Lua dir in the root dir, and 3 files in the Lua dir called, a.lua, b.lua, and c.lua\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QIf you want to load module a from init.lua you would do \\E(?:Dummy|Ina|Jimmy-|Dummy-|Maniquí-|Maniquíes-|Dummy\\+|Dummy's\\+)[0-9]+\\Q, that's the same for b and c and that should also be same when you're trying to call the module from file a, b, or c\\E$"}
+{"rule":"GONNA","sentence":"^\\QNow let's do a bit more complex directory structure, inside the Lua dir, we're gonna have the x, y and z dir, with an init.lua file, and directories called a, b, c, and inside of THOSE directories, we have the p, q, r file, with an init.lua\\E$"}
+{"rule":"GONNA","sentence":"^\\QNow let's do a bit more complex directory structure, inside the Lua dir, we're gonna have the x, y and z dir, with an init.lua file, and directories called a, b, c, and inside THOSE directories, we have the p, q, r file, with an init.lua\\E$"}
+{"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QThere should be a separate configs directory, which hosts your own config unrelated to plugins and/or extra stuff, which could work in a clean Neovim setup.\\E$"}
