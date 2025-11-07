@@ -1,3 +1,7 @@
 **/state
 **/local
 **/cache
+*.aup3
+*.mp3
+*.wav
+*.flac
