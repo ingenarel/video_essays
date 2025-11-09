@@ -1,6 +1,7 @@
 **/state
 **/local
 **/cache
+**/images
 *.aup3
 *.mp3
 *.wav
