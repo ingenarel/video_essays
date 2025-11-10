@@ -1,0 +1,18 @@
+00:00 Intro
+00:06 Modularization
+01:02 Current Config For Most Users
+01:14 My Philosophy of Modularization
+01:31 Reading the Docs for require()
+01:44 Reading the Docs for package.loaded
+02:14 Back to the Docs for require()
+02:27 Reading the Docs for package.preload
+02:36 Back to the Docs for require()
+02:50 Reading the Docs for package.path
+03:14 Back to the Docs for require()
+03:24 Reading the Docs for package.cpath
+03:47 Summing it up
+04:47 Using require() in a Simple Directory Structure
+05:09 Using require() in a Complex Directory Structure
+06:14 Why and How File Based Modularization?
+07:11 Changing your single file config to a modular one
+09:06 Outro?
