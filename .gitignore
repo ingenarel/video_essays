@@ -2,6 +2,7 @@
 **/local
 **/cache
 **/images
+**/Pictures
 *.aup3
 *.mp3
 *.wav
