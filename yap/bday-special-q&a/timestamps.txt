@@ -1,0 +1,46 @@
+00:00 intro
+00:09 What's your favourite distro? / What's the distro you have enjoyed the most?
+00:33 Disclaimer
+00:44 What do you think about Temple-OS?
+02:05 If you had to pick a distro to remove off the face of the planet what would it be?
+03:46 top or bottom?
+04:24 Why do you use Gentoo?
+07:10 What's the origin of your name?
+09:29 How'd you get good at regex?
+12:04 How do you study and what method?
+13:32 Favourite programming language and a programming language you wanna purge from the face of this planet
+15:09 What do you think about the best text editor?
+15:48 Would you rather use Ubuntu or sleep outside for one night?
+16:10 What is your primary OS?
+17:13 Are you gonna try C one day (or even assembly, not C++ tho)
+18:38 Why did you make cathedral of NeoJesus?
+19:33 What are your aspirations with the channel? Like future goals
+19:53 Will you try my Linux distro?
+20:41 What's your dream job?
+21:40 What editor would you recommend besides Neovim?
+21:49 Why are you gay
+22:29 Is NeoJesus just a title or do you plan to be crucified in the future?
+22:54 Do you know basic addition
+23:04 Favourite video game?
+24:48 When face reveal?
+25:17 When onlyfans?
+25:53 Do you like macOS
+26:06 When will you daily drive TempleOS?
+26:27 What brand cigs are your favorite
+27:30 What are your favourite and least favourite things about bangladesh
+28:35 If you could immigrate to any country in the world given that you had the financial stability to live there what would it be
+29:13 What is your favourite animal
+29:21 What’s your main source of income?
+29:59 How are you today?
+30:15 Glibc or Musl?
+30:42 Favourite material?
+31:05 Favourite band?
+31:17 Do you like hackintosh?
+31:29 When is your bd?
+31:41 When is my bd?
+32:13 What do you think about JIT having serious vulnerabilities in runtime when Lua depends mostly on the speed of the JIT compiler to run slightly faster in Lua 5.1 that is the lastest version supported?
+33:48 Opinion on men
+34:27 Why do you live in Bangladesh?
+34:35 Thoughts about crystal
+35:05 Thoughts on femboys?
+35:32 Outro
