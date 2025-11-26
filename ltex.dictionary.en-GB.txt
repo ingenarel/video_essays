@@ -2,3 +2,5 @@ dir
 init
 lua
 nvim-web-devicon
+Discordo
+Vesktop
