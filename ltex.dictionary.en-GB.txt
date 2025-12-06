@@ -4,3 +4,5 @@ lua
 nvim-web-devicon
 Discordo
 Vesktop
+Gentoo
+Weechat
