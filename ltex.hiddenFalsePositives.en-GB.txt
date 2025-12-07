@@ -28,3 +28,10 @@
 {"rule":"ANYWAYS","sentence":"^\\QBut anyways, I just like to keep Discordo in the background so that I can get my sweet sweet pings while also not stressing my system that much, because my damn config is really bloated, and it uses an average of 1.6 gigs of fucking ram and a lot of CPU, now you might say, hey that's not much, but I'm using an 8 gig ram system with a 3.2 GHz CPU that also overheats and on top of that a 16-18 year old HDD\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QOkay to those that are still are here, thank you gang, you folks are fucking based because you're mentally unstable and like to manage, or mismanage every single megabyte of ram, like meeeee\\E$"}
 {"rule":"TAKE_A_LOOK","sentence":"^\\QIf you take a look at the current terminal discord clients, most of them are just unmaintained.\\E$"}
+{"rule":"WANNA","sentence":"^\\QIf you need to know how to get your discord token, you can search it up on the internet, and I don't wanna cover that in here.\\E$"}
+{"rule":"GONNA","sentence":"^\\QNow my user theme might hurt your eyes, so I'm gonna switch to a default kitty terminal, and try out discordo there.\\E$"}
+{"rule":"GONNA","sentence":"^\\QNow my user theme might hurt your eyes, so I'm gonna switch to a default kitty terminal, and try out Discordo there.\\E$"}
+{"rule":"FIRST_OF_ALL","sentence":"^\\QNow after you log into your discord account, you're gonna be met with this really nice UI, now first of all, discordo is keyboard based, but it does have mouse support, so I can just click here, and here, and here, and it all just works\\E$"}
+{"rule":"WHOLE_LOT","sentence":"^\\QYou can actually do a whole lot more than just sending\\E$"}
+{"rule":"EN_UNPAIRED_QUOTES","sentence":"^\\QAren't there any bad parts of using it?\"\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QSince YouTube isn't counting views with AdBlocks anymore, giving a like, subscribe and commenting\\E$"}
