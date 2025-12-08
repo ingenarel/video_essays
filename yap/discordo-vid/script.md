@@ -95,8 +95,9 @@ their own lives. They're not getting a cent for most of the things that they're 
 Discordo, I urge you to support the development of Blender, Linux, Wine, and every other FOSS project
 
 If you're financially able to support me in my current financial struggle, you can join my Patreon or contact me if you
-have any work for me that gives any money, you can also join my discord server to hang around with the community. Since
-YouTube isn't counting views with AdBlocks anymore, giving a like, subscribe, commenting and sharing the video with
-other people should help me out.
+have any work for me that gives any money, you can also join my discord server to hang around with the community, it's
+also bridged with IRC, so you can join the #cathedral-of-neojesus-general channel on liberachat. I'm also working on a
+matrix bridge, among other stuff, so stay tuned for more info. Since YouTube isn't counting views with AdBlocks anymore,
+giving a like, subscribe, commenting and sharing the video with other people should help me out.
 
 That's all for today, thank you folks for staying this long, and I wish you a good life.
