@@ -14,8 +14,8 @@ Now I have been using and trying to keep up with Discordo development for a whil
 was in my windows days, getting started with programming, discovering the beauty of Neovim and other terminal
 applications. Eventually I also maintained a scoop bucket for Discordo and a few other packages
 
-I maintain the package for Gentoo's guru repo, and also use it in a daily basis besides the GUI client Vesktop. And I
-personally don't have that much of a problem with it honestly.
+I maintain the discordo package for Gentoo's guru repo, and also use it in a daily basis besides the GUI client Vesktop.
+And I personally don't have that much of a problem with it honestly.
 
 Discordo is an extremely well-made terminal discord client that's currently on the ecosystem, and I daresay it's the
 best of the best.
