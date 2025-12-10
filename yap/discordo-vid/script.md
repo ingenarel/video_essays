@@ -60,7 +60,7 @@ support syntax highlighting in code blocks, but maybe one day it will, if you're
 maybe fiddle around with the project and open a PR about that? IDK.
 
 You can get notifications from Discordo normally like you do in most other discord clients, you can attach files, which
-I just realized you can do when researching for this vid, it uses the built-in system file manager, so that's really
+I just realized you can do when researching for this vid, it calls your built-in system file manager, so that's really
 nice. Although I do like the idea of the built-in terminal one from that PR, maybe they'll keep both alternatives? IDK.
 
 You can mention people using autocomplete, you can do almost every normal discord features like replying to someone,
@@ -80,17 +80,20 @@ But talking about those first doesn't do this beautiful project any justice.
 
 First of all, Discordo doesn't show images built in. Yes you can open an image in your built-in image viewer/image
 editor, and you can indeed open up links, but Discordo doesn't render the images fully in the terminal itself, like how
-other TUI applications like Yazi does. Discordo also doesn't work well with forums, for me, it doesn't show any posts
-from any forums, although I believe the devs might be working on fixing that, so let's hope to that. Discordo also
-doesn't render audio/video in the program itself, but as I've said before, you can just download the file or just open
-it with your default editor/viewer of choice. But hey what are you expecting, It's a lightweight discord client written
-in GO, not a bloated electron app.
+other TUI applications like Yazi does or iamb does.
 
-If those are a huge problem for you that turns the world upside down, and you wanna yap about that, maybe just stick to
-a GUI client, or write the feature yourself and open a PR, or hire a GO developer that can do this and they'll make the
+Discordo also doesn't work well with forums, for me, it doesn't show any posts from any forums, although I believe the
+devs might be working on fixing that, so let's hope to that.
+
+Discordo also doesn't render audio/video in the program itself, but as I've said before, you can just download the file
+or just open it with your default editor/viewer of choice. But hey what are you expecting, It's a lightweight discord
+client written in GO, not a bloated electron app.
+
+If those are huge problems for you that turns the world upside down, and you wanna yap about that, maybe just stick to a
+GUI client, or write the feature yourself and open a PR, or hire a GO developer that can do this and they'll make the
 PR. Or, just stop bitching about it.
 
-I know that most of my friends and my viewers aren't like that, but I'm still saying it. Because FOSS contributor have
+I know that most of my friends and my viewers aren't like that, but I'm still saying it. Because FOSS contributors have
 their own lives. They're not getting a cent for most of the things that they're doing. So I urge you to support
 Discordo, I urge you to support the development of Blender, Linux, Wine, and every other FOSS project
 
