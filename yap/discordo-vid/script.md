@@ -1,3 +1,5 @@
+# I'm not gonna publish this video and I removed myself as a maintainer of discordo from ::guru for some personal reasons. No hate to the project btw, you can find more info in my discord
+
 Using custom Discord clients violates the Discord TOS.
 
 In their TOS they say, and I quote,
