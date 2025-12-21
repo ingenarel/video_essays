@@ -7,13 +7,18 @@ export HOME
 [ ! -d "$HOME/.local/bin" ] && mkdir --parents "$HOME/.local/bin"
 PATH="$PATH:$HOME/.local/bin"
 export PATH
-{
-    git clone https://gitlab.com/christosangel/basht.git "$HOME/source" ||
-    git -C "$HOME/source" pull
-} ||
-exit
 
-cd "$HOME/source" || exit
-./install.sh || exit
+#@formatter:off
+# shellcheck disable=SC2015
+[ ! -d "$HOME/source" ] && {
+    git clone https://gitlab.com/christosangel/basht.git "$HOME/source" && {
+        cd "$HOME/source" &&
+        ./install.sh
+    } ||
+    exit
+} || {
+    git -C "$HOME/source" pull
+}
+#@formatter:on
 
 "$SHELL" -i

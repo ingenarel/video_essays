@@ -1,0 +1,17 @@
+catagory max rating weight
+
+Usability 10 10
+Documentation 10 10
+Configuration 10 9
+Keybinds 9
+speed 10 8
+plugins 10 8
+Features 10 7
+Update 10 5
+Preview 10 5
+Theme 10 4
+Influence 10 4
+Unique Ideas 10 4
+
+Total weighted average = sum ( rating * weight ) / sum of weights
+                                                        83

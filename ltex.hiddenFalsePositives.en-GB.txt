@@ -1,0 +1,2 @@
+{"rule":"GONNA","sentence":"^\\QRating is gonna be done with this chart, pause the video if you have to, to get an understanding.\\E$"}
+{"rule":"GOTTA","sentence":"^\\QChristosangel's Basht: First on the list is Basht, now I gotta say, unique project, it's actually a shell script which is pretty nice.\\E$"}
